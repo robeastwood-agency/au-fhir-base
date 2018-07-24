@@ -635,6 +635,12 @@
         <reference value="Medication/BrandedPack0"/>
       </sourceReference>
     </resource>
+    <resource>
+      <example value="false"/>
+      <sourceReference>
+        <reference value="StructureDefinition/au-bodysite"/>
+      </sourceReference>
+    </resource>
   </package>
   <page>
     <source value="index.html"/>
