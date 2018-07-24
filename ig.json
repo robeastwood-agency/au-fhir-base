@@ -312,7 +312,7 @@
             },
        "StructureDefinition/au-bodysite": {
             "base": "StructureDefinition-au-bodysite.html",
-            "defns": "StructureDefinition-au-bodysite-definition.html"
+            "defns": "StructureDefinition-au-bodysite-definitions.html"
             }
     }
 }
