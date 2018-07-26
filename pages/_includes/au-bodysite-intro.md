@@ -1,1 +1,1 @@
-This Body Site profile provided for use in an Australian context.
+This BodySite profile is provided for use in an Australian context.
