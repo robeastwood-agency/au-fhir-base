@@ -47,6 +47,7 @@
     </element>
     <element id="BodySite.qualifier.coding">
       <path value="BodySite.qualifier.coding"/>
+      <max value="1"/>
       <binding>
         <strength value="required"/>
         <valueSetUri value="http://hl7.org/fhir/ValueSet/bodysite-relative-location"/>
