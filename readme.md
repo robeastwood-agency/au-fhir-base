@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/robeastwood-agency/au-fhir-base.svg?branch=master)](https://travis-ci.org/robeastwood-agency/au-fhir-base)
+
 How to build this IG
 
 Step #1: Use the IG publisher
